@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Master candidate. Full stack Software Engineer.
+
 <!--
 **xinchun2077/xinchun2077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
